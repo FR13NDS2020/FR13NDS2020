@@ -9,5 +9,12 @@ In this ever-changing landscape of computer science 🌎, I am committed to alwa
 Latest Youtube videos
 
 Languages and Tools
+![Python](https://img.shields.io/badge/-Python-111111?style=for-the-badge&logo=Python)
+![C++](https://img.shields.io/badge/-C++-111111?style=for-the-badge&logo=C%2b%2b)
+![Parsing](https://img.shields.io/badge/-Parsing-111111?style=for-the-badge)
+![DataVisualize](https://img.shields.io/badge/-DataVisualize-111111?style=for-the-badge)
+![HTML](https://img.shields.io/badge/-HTML-111111?style=for-the-badge&logo=HTML)
+![CSS](https://img.shields.io/badge/-CSS-111111?style=for-the-badge&logo=CSS)
+![SQL](https://img.shields.io/badge/-BeautifulSoup-111111?style=for-the-badge&logo=SQL)
 
 Follow me
