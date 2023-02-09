@@ -19,3 +19,6 @@ In this ever-changing landscape of computer science 🌎, I am committed to alwa
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FR13NDS2020&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FR13NDS2020&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
