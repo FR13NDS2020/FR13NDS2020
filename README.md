@@ -7,7 +7,7 @@ I am driven by a genuine interest in and passion for computer science 💖, cons
 
 In this ever-changing landscape of computer science 🌎, I am committed to always striving for growth and excellence 💪.
 
-
+_____
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-111111?style=for-the-badge&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-111111?style=for-the-badge&logo=C%2b%2b)
@@ -18,5 +18,6 @@ In this ever-changing landscape of computer science 🌎, I am committed to alwa
 ![SQL](https://img.shields.io/badge/-SQL-111111?style=for-the-badge&logo=SQL)
 
 
-
+____
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FR13NDS2020&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FR13NDS2020&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
